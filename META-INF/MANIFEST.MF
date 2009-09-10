@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Magic Assistant Addons Test Fragment
+Bundle-SymbolicName: org.randomcoding.mtg.magicassistant.addons.tests
+Bundle-Version: 1.0.0.qualifier
+Bundle-Vendor: Random Coder (randomcoder@randomcoding.co.uk)
+Fragment-Host: org.randomcoding.mtg.magicassistant.addons;bundle-version="1.0.0"
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Require-Bundle: org.junit4;bundle-version="4.5.0"
